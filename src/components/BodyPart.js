@@ -18,7 +18,7 @@ const BodyPart = ({ item, setBodyPart, bodyPart }) => (
         height: '282px',
         cursor: 'pointer',
         gap: '47px',
-      } : { 
+      } : {
         background: '#fff',
         borderBottomLeftRadius: '20px',
         width: '270px',
